@@ -53,7 +53,7 @@ async function run() {
 </h1>
 <p align="center">
     <a href="${repo.html_url}">
-        <img width="500" height="500" src="./readme.svg" />
+        <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>`,
         { encoding: "utf-8" },
