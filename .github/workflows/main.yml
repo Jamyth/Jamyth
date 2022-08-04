@@ -39,5 +39,5 @@ jobs:
 
       - name: Remove Caches
         run: |
-          curl -X PURGE https://camo.githubusercontent.com/${GITHUB_REPOSITORY}/master/ReadmeImage.svg
-          curl -I https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/master/ReadmeImage.svg
+          curl -X PURGE https://camo.githubusercontent.com/${GITHUB_REPOSITORY}/master/readme.svg
+          curl -I https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/master/readme.svg
