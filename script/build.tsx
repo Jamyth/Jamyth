@@ -47,7 +47,7 @@ async function run() {
     fs.writeFileSync(svgPath, content, { encoding: "utf-8" });
     fs.writeFileSync(
         readmePath,
-        `<!-- built at ${now.toString()} -->
+        `<!-- built at ${now.toPlainDateTime().toString()} -->
 <p align="center">
     <img width="500" height="500" src="./readme.svg" />
 </p>`,
