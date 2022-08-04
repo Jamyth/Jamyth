@@ -1,0 +1,43 @@
+name: Update README File
+
+on:
+  push:
+    branches:
+      - master
+    schedule:
+      - cron: "0 */1 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [17]
+
+    steps:
+      - name: Checkout Repository under @GITHUB_WORKSPACE
+        uses: actions/checkout@v2
+
+      - name: Setup NodeJS ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version}}
+
+      - name: Install node_modules
+        run: yarn install --frozen-lockfile --prefer-offline
+
+      - name: Generate README
+        run: yarn build
+
+      - name: Commit
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@user.noreply.github.com"
+          git add -A
+          git commit -m "generate readme"
+          git push -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+
+      - name: Remove Caches
+        run: |
+          curl -X PURGE https://camo.githubusercontent.com/${GITHUB_REPOSITORY}/master/ReadmeImage.svg
+          curl -I https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/master/ReadmeImage.svg

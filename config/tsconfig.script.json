@@ -4,7 +4,7 @@
     "compilerOptions": {
         "target": "ES5",
         "noEmit": true,
-        "rootDir": "../script"
+        "rootDir": ".."
     },
-    "include": ["../script"]
+    "include": ["../script", "../src"]
 }
