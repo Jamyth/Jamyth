@@ -8,4 +8,5 @@ export interface RepositoryView {
     description: string;
     url: string;
     language: string;
+    html_url: string;
 }

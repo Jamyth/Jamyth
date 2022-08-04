@@ -48,8 +48,11 @@ async function run() {
     fs.writeFileSync(
         readmePath,
         `<!-- built at ${now.toPlainDateTime().toString()} -->
+<h1 align="center">
+🎉 Jamyth Present 🎉
+</h1>
 <p align="center">
-    <a href="${repo.url}">
+    <a href="${repo.html_url}">
         <img width="500" height="500" src="./readme.svg" />
     </a>
 </p>`,
