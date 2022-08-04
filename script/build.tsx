@@ -49,7 +49,9 @@ async function run() {
         readmePath,
         `<!-- built at ${now.toPlainDateTime().toString()} -->
 <p align="center">
-    <img width="500" height="500" src="./readme.svg" />
+    <a href="${repo.url}">
+        <img width="500" height="500" src="./readme.svg" />
+    </a>
 </p>`,
         { encoding: "utf-8" },
     );
