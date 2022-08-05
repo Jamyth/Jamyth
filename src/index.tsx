@@ -11,8 +11,9 @@ root.render(
         repository={{
             description: "a 2p chinese chess game",
             full_name: "Jamyth/chinese-chess",
-            language: "TypeScript",
+            language: "JavaScript",
             name: "chinese-chess",
+            html_url: "https://api.github.com/repos/Jamyth/chinese-chess",
             url: "https://api.github.com/repos/Jamyth/chinese-chess",
         }}
     />,
