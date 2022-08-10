@@ -3,7 +3,7 @@
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/api-code-generator">
+    <a href="https://github.com/Jamyth/iamyth-iconfont">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
