@@ -42,12 +42,12 @@ async function run() {
         filepath: "_.html",
     });
 
-    const now = Temporal.Now.plainDateISO();
+    const now = Temporal.Now.plainDateTimeISO();
 
     fs.writeFileSync(svgPath, content, { encoding: "utf-8" });
     fs.writeFileSync(
         readmePath,
-        `<!-- built at ${now.toPlainDateTime().toString()} -->
+        `<!-- built at ${now.toLocaleString()} -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
