@@ -1,9 +1,9 @@
-<!-- built at 8/19/2022, 11:14:29 AM -->
+<!-- built at 8/19/2022, 12:32:12 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jamyth-script-v2">
+    <a href="https://github.com/Jamyth/Jed-Type-Challenge">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
