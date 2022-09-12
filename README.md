@@ -1,9 +1,9 @@
-<!-- built at 9/11/2022, 11:18:14 PM -->
+<!-- built at 9/12/2022, 2:02:04 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/core-fe-project">
+    <a href="https://github.com/Jamyth/leela-zero">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
