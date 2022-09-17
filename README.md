@@ -1,9 +1,9 @@
-<!-- built at 9/17/2022, 11:15:01 AM -->
+<!-- built at 9/17/2022, 12:31:51 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Training-Task-2019">
+    <a href="https://github.com/Jamyth/jed-type-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
