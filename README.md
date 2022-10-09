@@ -1,9 +1,9 @@
-<!-- built at 10/9/2022, 7:16:37 PM -->
+<!-- built at 10/9/2022, 8:20:21 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/core-codegen">
+    <a href="https://github.com/Jamyth/eatwhatgood-mono">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
