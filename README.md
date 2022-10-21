@@ -1,9 +1,9 @@
-<!-- built at 10/21/2022, 3:28:10 PM -->
+<!-- built at 10/21/2022, 4:32:35 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/iamyth-git-tool">
+    <a href="https://github.com/Jamyth/instructions">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
