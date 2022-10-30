@@ -1,9 +1,9 @@
-<!-- built at 10/30/2022, 3:51:56 AM -->
+<!-- built at 10/30/2022, 4:46:20 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/TauriScreenSaver">
+    <a href="https://github.com/Jamyth/PUBG-record-tracker">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
