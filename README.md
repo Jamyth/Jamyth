@@ -1,9 +1,9 @@
-<!-- built at 11/12/2022, 12:29:50 PM -->
+<!-- built at 11/12/2022, 1:27:38 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Jederize">
+    <a href="https://github.com/Jamyth/Jed-Mongoose">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
