@@ -1,9 +1,9 @@
-<!-- built at 11/22/2022, 1:30:24 PM -->
+<!-- built at 11/22/2022, 2:14:56 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/eatwhatgood-mono">
+    <a href="https://github.com/Jamyth/landmines">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
