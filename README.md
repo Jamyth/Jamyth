@@ -1,9 +1,9 @@
-<!-- built at 11/21/2022, 11:17:54 PM -->
+<!-- built at 11/22/2022, 1:25:01 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/vite-runner">
+    <a href="https://github.com/Jamyth/jamyth-script">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
