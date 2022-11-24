@@ -1,9 +1,9 @@
-<!-- built at 11/24/2022, 1:26:17 PM -->
+<!-- built at 11/24/2022, 2:13:35 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/leela-zero">
+    <a href="https://github.com/Jamyth/chinese-chess">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
