@@ -1,9 +1,9 @@
-<!-- built at 12/14/2022, 6:18:35 AM -->
+<!-- built at 12/14/2022, 7:13:31 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/coil-react">
+    <a href="https://github.com/Jamyth/random-dice-web">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
