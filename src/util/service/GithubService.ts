@@ -5,7 +5,12 @@ export class GithubService {
     static readonly origin = "https://api.github.com";
 
     static async getProfile(): Promise<ProfileView> {
-        return (await axios.get(`${this.origin}/users/Jamyth`)).data;
+        try {
+            return (await axios.get(`${this.origin}/users/Jamyth`)).data;
+        } catch (error) {
+            console.error("Fetching Profile Error");
+            return { public_repos: 0 };
+        }
     }
 
     static async getRepositories(page: number): Promise<RepositoryView[]> {

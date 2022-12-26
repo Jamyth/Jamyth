@@ -25,7 +25,15 @@ async function run() {
         repos.push(...repositories);
     }
     const index = Math.floor(Math.random() * numbersOfRepo);
-    const repo = repos[index];
+    const repo = repos[index] ?? {
+        full_name: "Jamyth/Jamyth",
+        name: "Jamyth",
+        description: "Welcome To my GitHub",
+        url: "https://api.github.com/repos/Jamyth/Jamyth",
+        language: "TypeScript",
+        html_url: "https://github.com/Jamyth/Jamyth",
+    };
+    logger.info(JSON.stringify(repo, null, 4));
 
     logger.info("building svg");
     const markup = renderToStaticMarkup(<FeaturedProject repository={repo} />);
