@@ -1,9 +1,9 @@
-<!-- built at 1/2/2023, 6:16:23 PM -->
+<!-- built at 1/2/2023, 7:10:41 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/GO_AI">
+    <a href="https://github.com/Jamyth/Sudoku">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
