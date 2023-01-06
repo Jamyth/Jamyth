@@ -1,9 +1,9 @@
-<!-- built at 1/6/2023, 9:13:44 AM -->
+<!-- built at 1/6/2023, 10:15:10 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/9upper-frontend-project">
+    <a href="https://github.com/Jamyth/jed-type-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
