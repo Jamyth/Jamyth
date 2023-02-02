@@ -1,9 +1,9 @@
-<!-- built at 2/2/2023, 10:15:14 AM -->
+<!-- built at 2/2/2023, 11:11:59 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/nest-api-generator">
+    <a href="https://github.com/Jamyth/License-Generator">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
