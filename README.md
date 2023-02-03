@@ -1,9 +1,9 @@
-<!-- built at 2/3/2023, 9:14:25 AM -->
+<!-- built at 2/3/2023, 10:15:09 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/9upper-frontend-project">
+    <a href="https://github.com/Jamyth/leela-zero">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
