@@ -1,9 +1,9 @@
-<!-- built at 2/6/2023, 6:18:43 AM -->
+<!-- built at 2/6/2023, 7:13:03 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/next-recoil">
+    <a href="https://github.com/Jamyth/jamyth-script">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
