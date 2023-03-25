@@ -1,9 +1,9 @@
-<!-- built at 3/25/2023, 1:15:05 PM -->
+<!-- built at 3/25/2023, 2:11:14 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/9upper-project">
+    <a href="https://github.com/Jamyth/SwissTournament">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
