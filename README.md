@@ -1,9 +1,9 @@
-<!-- built at 4/10/2023, 5:11:17 PM -->
+<!-- built at 4/10/2023, 6:15:56 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/PUBG-record-tracker">
+    <a href="https://github.com/Jamyth/logger">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
