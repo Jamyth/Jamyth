@@ -1,9 +1,9 @@
-<!-- built at 5/6/2023, 6:15:08 PM -->
+<!-- built at 5/6/2023, 7:09:47 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/vintage-leather-foil-stamping-demo">
+    <a href="https://github.com/Jamyth/chinese-chess">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
