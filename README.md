@@ -1,9 +1,9 @@
-<!-- built at 6/14/2023, 5:12:29 AM -->
+<!-- built at 6/14/2023, 6:16:20 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/web-ui">
+    <a href="https://github.com/Jamyth/version-checker">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
