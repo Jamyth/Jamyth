@@ -1,9 +1,9 @@
-<!-- built at 6/18/2023, 6:15:47 AM -->
+<!-- built at 6/18/2023, 7:11:44 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jed-type-game">
+    <a href="https://github.com/Jamyth/coil-react">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
