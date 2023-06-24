@@ -1,9 +1,9 @@
-<!-- built at 6/24/2023, 3:27:08 AM -->
+<!-- built at 6/24/2023, 4:17:29 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/shorten-url">
+    <a href="https://github.com/Jamyth/eatwhatgood-mono">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
