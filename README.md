@@ -1,9 +1,9 @@
-<!-- built at 7/7/2023, 4:18:30 PM -->
+<!-- built at 7/7/2023, 5:12:53 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/coherent-exchange-rates">
+    <a href="https://github.com/Jamyth/expo-go-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
