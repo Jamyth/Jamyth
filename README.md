@@ -1,9 +1,9 @@
-<!-- built at 8/20/2023, 12:56:44 AM -->
+<!-- built at 8/20/2023, 1:48:43 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/random-dice-web">
+    <a href="https://github.com/Jamyth/License-Generator">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
