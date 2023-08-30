@@ -1,9 +1,9 @@
-<!-- built at 8/30/2023, 1:15:39 PM -->
+<!-- built at 8/30/2023, 3:12:36 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jamyth-script-v2">
+    <a href="https://github.com/Jamyth/appcenter-auto-builder">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
