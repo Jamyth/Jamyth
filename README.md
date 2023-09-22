@@ -1,9 +1,9 @@
-<!-- built at 9/22/2023, 10:11:30 PM -->
+<!-- built at 9/22/2023, 11:11:49 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/expo-go-game">
+    <a href="https://github.com/Jamyth/Jed-Type-Challenge">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
