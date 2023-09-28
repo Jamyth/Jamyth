@@ -1,9 +1,9 @@
-<!-- built at 9/28/2023, 6:16:20 PM -->
+<!-- built at 9/28/2023, 7:10:18 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Coil-React-CLI">
+    <a href="https://github.com/Jamyth/Jed-Type-Challenge">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
