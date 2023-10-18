@@ -1,9 +1,9 @@
-<!-- built at 10/18/2023, 6:16:58 PM -->
+<!-- built at 10/18/2023, 7:10:53 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/webpack-runner">
+    <a href="https://github.com/Jamyth/landmines">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
