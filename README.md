@@ -1,9 +1,9 @@
-<!-- built at 10/24/2023, 8:31:32 AM -->
+<!-- built at 10/24/2023, 9:13:16 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/webpack-runner">
+    <a href="https://github.com/Jamyth/jed-type-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
