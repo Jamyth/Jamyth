@@ -1,9 +1,9 @@
-<!-- built at 10/29/2023, 1:13:39 PM -->
+<!-- built at 10/29/2023, 2:10:15 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/nest-api-generator">
+    <a href="https://github.com/Jamyth/iamyth-chakra-admin">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
