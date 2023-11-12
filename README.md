@@ -1,9 +1,9 @@
-<!-- built at 11/11/2023, 11:12:13 PM -->
+<!-- built at 11/12/2023, 1:02:05 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jconfig">
+    <a href="https://github.com/Jamyth/flappy-bird">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
