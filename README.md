@@ -1,9 +1,9 @@
-<!-- built at 11/23/2023, 9:12:59 AM -->
+<!-- built at 11/23/2023, 10:13:49 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Jed-Type-Challenge">
+    <a href="https://github.com/Jamyth/eatwhatgood-mono">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
