@@ -1,9 +1,9 @@
-<!-- built at 12/6/2023, 2:12:16 PM -->
+<!-- built at 12/6/2023, 3:14:14 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/License-Generator">
+    <a href="https://github.com/Jamyth/jed-type-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
