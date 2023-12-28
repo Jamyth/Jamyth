@@ -1,9 +1,9 @@
-<!-- built at 12/28/2023, 3:13:28 AM -->
+<!-- built at 12/28/2023, 4:15:50 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jed-type-game">
+    <a href="https://github.com/Jamyth/Flappy-Bird-Sharing">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
