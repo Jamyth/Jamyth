@@ -1,9 +1,9 @@
-<!-- built at 12/29/2023, 5:12:40 PM -->
+<!-- built at 12/29/2023, 6:15:33 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/metamatter">
+    <a href="https://github.com/Jamyth/Solitaire">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
