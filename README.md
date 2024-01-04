@@ -1,9 +1,9 @@
-<!-- built at 1/3/2024, 11:14:28 PM -->
+<!-- built at 1/4/2024, 12:59:54 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/eatwhatgood-mono">
+    <a href="https://github.com/Jamyth/nest-api-generator">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
