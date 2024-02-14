@@ -1,9 +1,9 @@
-<!-- built at 2/14/2024, 5:12:57 AM -->
+<!-- built at 2/14/2024, 6:16:56 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/SwissTournament">
+    <a href="https://github.com/Jamyth/jed-type-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
