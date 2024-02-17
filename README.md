@@ -1,9 +1,9 @@
-<!-- built at 2/17/2024, 8:12:09 PM -->
+<!-- built at 2/17/2024, 9:10:52 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/react-native-neu-element">
+    <a href="https://github.com/Jamyth/coherent-exchange-rates">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
