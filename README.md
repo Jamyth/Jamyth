@@ -1,9 +1,9 @@
-<!-- built at 3/18/2024, 3:12:44 PM -->
+<!-- built at 3/18/2024, 4:16:38 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/FlightRedeemSearch">
+    <a href="https://github.com/Jamyth/Flappy-Bird-Sharing">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
