@@ -1,9 +1,9 @@
-<!-- built at 3/20/2024, 9:13:29 PM -->
+<!-- built at 3/20/2024, 10:11:20 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/react-shiba">
+    <a href="https://github.com/Jamyth/coherent-exchange-rates">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
