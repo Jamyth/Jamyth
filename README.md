@@ -1,9 +1,9 @@
-<!-- built at 3/26/2024, 10:14:30 AM -->
+<!-- built at 3/26/2024, 11:11:25 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/expo-go-game">
+    <a href="https://github.com/Jamyth/EatWhatGood-backend">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
