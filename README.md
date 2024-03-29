@@ -1,9 +1,9 @@
-<!-- built at 3/29/2024, 6:15:46 PM -->
+<!-- built at 3/29/2024, 7:10:59 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Flappy-Bird-Sharing">
+    <a href="https://github.com/Jamyth/leela-zero">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
