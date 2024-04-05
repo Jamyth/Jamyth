@@ -1,9 +1,9 @@
-<!-- built at 4/5/2024, 5:12:23 AM -->
+<!-- built at 4/5/2024, 6:16:42 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/coherent-exchange-rates">
+    <a href="https://github.com/Jamyth/JFolderize">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
