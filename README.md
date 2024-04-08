@@ -1,9 +1,9 @@
-<!-- built at 4/8/2024, 9:11:36 PM -->
+<!-- built at 4/8/2024, 10:14:05 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jamyth-script-v2">
+    <a href="https://github.com/Jamyth/Jalendar">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
