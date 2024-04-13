@@ -1,9 +1,9 @@
-<!-- built at 4/13/2024, 9:10:33 AM -->
+<!-- built at 4/13/2024, 10:11:05 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/vite-runner">
+    <a href="https://github.com/Jamyth/Jed-Type-Challenge">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
