@@ -1,9 +1,9 @@
-<!-- built at 4/21/2024, 4:16:14 PM -->
+<!-- built at 4/21/2024, 5:12:07 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/iamyth-chakra-admin">
+    <a href="https://github.com/Jamyth/chinese-chess">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
