@@ -1,9 +1,9 @@
-<!-- built at 5/10/2024, 11:11:58 AM -->
+<!-- built at 5/10/2024, 12:24:45 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/EatWhatGood">
+    <a href="https://github.com/Jamyth/iamyth-git-tool">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
