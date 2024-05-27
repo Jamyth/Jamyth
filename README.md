@@ -1,9 +1,9 @@
-<!-- built at 5/27/2024, 10:12:23 PM -->
+<!-- built at 5/27/2024, 11:14:38 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/vite-runner">
+    <a href="https://github.com/Jamyth/PUBG-record-tracker">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
