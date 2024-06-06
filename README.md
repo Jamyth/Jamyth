@@ -1,9 +1,9 @@
-<!-- built at 6/6/2024, 9:14:27 PM -->
+<!-- built at 6/6/2024, 10:12:50 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/react-dnr-container">
+    <a href="https://github.com/Jamyth/SwissTournament">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
