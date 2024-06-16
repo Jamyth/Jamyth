@@ -1,9 +1,9 @@
-<!-- built at 6/16/2024, 4:16:29 AM -->
+<!-- built at 6/16/2024, 5:14:12 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/metamatter">
+    <a href="https://github.com/Jamyth/dotfiles">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
