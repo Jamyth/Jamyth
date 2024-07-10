@@ -32,12 +32,12 @@ jobs:
       - name: Commit
         run: |
           git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@user.noreply.github.com"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add -A
           git commit -m "generate readme"
           git push -f https://${{ secrets.TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
 
       - name: Remove Caches
         run: |
-          curl -X PURGE https://camo.githubusercontent.com/${GITHUB_REPOSITORY}/master/readme.svg
-          curl -I https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/master/readme.svg
+          curl -X PURGE https://camo.githubusercontent.com/${GITHUB_REPOSITORY}/master/ReadmeImage.svg
+          curl -I https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/master/ReadmeImage.svg
