@@ -1,9 +1,9 @@
-<!-- built at 8/4/2024, 6:19:19 AM -->
+<!-- built at 8/4/2024, 7:13:22 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jed-nvim">
+    <a href="https://github.com/Jamyth/random-dice-web">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
