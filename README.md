@@ -1,9 +1,9 @@
-<!-- built at 8/31/2024, 11:14:11 PM -->
+<!-- built at 9/1/2024, 1:21:23 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/chinese-chess">
+    <a href="https://github.com/Jamyth/time-killer-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
