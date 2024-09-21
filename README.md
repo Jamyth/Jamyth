@@ -1,9 +1,9 @@
-<!-- built at 9/21/2024, 5:15:06 PM -->
+<!-- built at 9/21/2024, 6:19:51 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/foul-language-counter">
+    <a href="https://github.com/Jamyth/Coil-React-CLI">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
