@@ -1,9 +1,9 @@
-<!-- built at 10/1/2024, 2:15:24 PM -->
+<!-- built at 10/1/2024, 3:17:19 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/time-killer-game">
+    <a href="https://github.com/Jamyth/foul-language-counter">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
