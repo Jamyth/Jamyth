@@ -1,9 +1,9 @@
-<!-- built at 10/9/2024, 2:15:18 PM -->
+<!-- built at 10/9/2024, 3:17:34 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Jalendar">
+    <a href="https://github.com/Jamyth/Coil-React-CLI">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
