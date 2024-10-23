@@ -1,9 +1,9 @@
-<!-- built at 10/23/2024, 1:15:04 AM -->
+<!-- built at 10/23/2024, 2:48:34 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/core-codegen">
+    <a href="https://github.com/Jamyth/landmines">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
