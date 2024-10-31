@@ -1,9 +1,9 @@
-<!-- built at 10/31/2024, 10:15:18 PM -->
+<!-- built at 10/31/2024, 11:18:03 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jconfig">
+    <a href="https://github.com/Jamyth/react-dnr-container">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
