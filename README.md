@@ -1,9 +1,9 @@
-<!-- built at 11/6/2024, 11:15:25 PM -->
+<!-- built at 11/7/2024, 1:14:17 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/expo-go-game">
+    <a href="https://github.com/Jamyth/core-fe-project">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
