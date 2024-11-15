@@ -1,9 +1,9 @@
-<!-- built at 11/15/2024, 11:13:49 AM -->
+<!-- built at 11/15/2024, 12:33:11 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Jederize">
+    <a href="https://github.com/Jamyth/vintage-leather-foil-stamping-demo">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
