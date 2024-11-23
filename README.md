@@ -1,9 +1,9 @@
-<!-- built at 11/23/2024, 6:22:13 AM -->
+<!-- built at 11/23/2024, 7:14:24 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/License-Generator">
+    <a href="https://github.com/Jamyth/expo-go-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
