@@ -1,9 +1,9 @@
-<!-- built at 1/2/2025, 8:17:08 PM -->
+<!-- built at 1/2/2025, 9:14:38 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/JFolderize">
+    <a href="https://github.com/Jamyth/iamyth-chakra-admin">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
