@@ -1,9 +1,9 @@
-<!-- built at 1/4/2025, 8:19:17 AM -->
+<!-- built at 1/4/2025, 9:15:18 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Solitaire">
+    <a href="https://github.com/Jamyth/PUBG-record-tracker">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
