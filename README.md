@@ -1,9 +1,9 @@
-<!-- built at 1/14/2025, 2:15:00 PM -->
+<!-- built at 1/14/2025, 3:16:20 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/JFolderize">
+    <a href="https://github.com/Jamyth/expo-go-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
