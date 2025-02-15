@@ -1,9 +1,9 @@
-<!-- built at 2/15/2025, 7:13:28 AM -->
+<!-- built at 2/15/2025, 8:18:43 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/chinese-chess">
+    <a href="https://github.com/Jamyth/random-dice-web">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
