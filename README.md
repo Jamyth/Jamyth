@@ -1,9 +1,9 @@
-<!-- built at 2/21/2025, 4:20:43 AM -->
+<!-- built at 2/21/2025, 5:15:54 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/License-Generator">
+    <a href="https://github.com/Jamyth/Farkle">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
