@@ -1,9 +1,9 @@
-<!-- built at 4/13/2025, 5:14:34 PM -->
+<!-- built at 4/13/2025, 6:22:39 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Coil-React-CLI">
+    <a href="https://github.com/Jamyth/eatwhatgood-mono">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
