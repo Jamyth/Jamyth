@@ -1,9 +1,9 @@
-<!-- built at 5/18/2025, 5:17:27 AM -->
+<!-- built at 5/18/2025, 6:25:29 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Jed-Mongoose">
+    <a href="https://github.com/Jamyth/SwissTournament">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
