@@ -1,9 +1,9 @@
-<!-- built at 5/26/2025, 11:14:39 AM -->
+<!-- built at 5/26/2025, 12:36:59 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/dotfiles">
+    <a href="https://github.com/Jamyth/License-Generator">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
