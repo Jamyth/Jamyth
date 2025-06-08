@@ -1,9 +1,9 @@
-<!-- built at 6/8/2025, 11:14:12 AM -->
+<!-- built at 6/8/2025, 12:34:35 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/GO_AI">
+    <a href="https://github.com/Jamyth/nest-api-generator">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
