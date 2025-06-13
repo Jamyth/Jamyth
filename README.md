@@ -1,9 +1,9 @@
-<!-- built at 6/13/2025, 7:14:52 PM -->
+<!-- built at 6/13/2025, 8:20:32 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/flappy-bird">
+    <a href="https://github.com/Jamyth/coherent-exchange-rates">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
