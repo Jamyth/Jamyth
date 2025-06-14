@@ -1,9 +1,9 @@
-<!-- built at 6/14/2025, 7:16:30 AM -->
+<!-- built at 6/14/2025, 8:22:03 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/version-checker">
+    <a href="https://github.com/Jamyth/jed-nvim">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
