@@ -1,9 +1,9 @@
-<!-- built at 7/14/2025, 1:35:17 PM -->
+<!-- built at 7/14/2025, 2:20:19 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/vite-runner">
+    <a href="https://github.com/Jamyth/JFolderize">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
