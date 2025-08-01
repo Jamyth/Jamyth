@@ -1,9 +1,9 @@
-<!-- built at 8/1/2025, 4:54:33 AM -->
+<!-- built at 8/1/2025, 5:30:54 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Pong">
+    <a href="https://github.com/Jamyth/web-ui">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
