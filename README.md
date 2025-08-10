@@ -1,9 +1,9 @@
-<!-- built at 8/10/2025, 11:15:30 AM -->
+<!-- built at 8/10/2025, 12:38:14 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/License-Generator">
+    <a href="https://github.com/Jamyth/chinese-chess">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
