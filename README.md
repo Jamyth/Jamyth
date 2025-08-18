@@ -1,9 +1,9 @@
-<!-- built at 8/18/2025, 1:34:54 PM -->
+<!-- built at 8/18/2025, 2:20:08 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Farkle">
+    <a href="https://github.com/Jamyth/Jamyth">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
