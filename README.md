@@ -1,9 +1,9 @@
-<!-- built at 8/31/2025, 5:16:27 AM -->
+<!-- built at 8/31/2025, 6:24:52 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Jed-Mongoose">
+    <a href="https://github.com/Jamyth/expo-go-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
