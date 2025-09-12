@@ -1,9 +1,9 @@
-<!-- built at 9/12/2025, 3:17:34 PM -->
+<!-- built at 9/12/2025, 4:18:17 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/GO_AI">
+    <a href="https://github.com/Jamyth/react-dnr-container">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
