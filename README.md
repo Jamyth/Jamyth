@@ -1,9 +1,9 @@
-<!-- built at 9/17/2025, 6:25:13 PM -->
+<!-- built at 9/17/2025, 7:13:34 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/shorten-url">
+    <a href="https://github.com/Jamyth/foul-language-counter">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
