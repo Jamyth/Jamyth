@@ -1,9 +1,9 @@
-<!-- built at 9/18/2025, 6:26:21 PM -->
+<!-- built at 9/18/2025, 7:14:05 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jed-nvim">
+    <a href="https://github.com/Jamyth/leela-zero">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
