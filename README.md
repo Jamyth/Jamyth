@@ -1,9 +1,9 @@
-<!-- built at 11/15/2025, 8:22:07 AM -->
+<!-- built at 11/15/2025, 9:17:25 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/react-cloud-state">
+    <a href="https://github.com/Jamyth/jed-nvim">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
