@@ -1,9 +1,9 @@
-<!-- built at 11/21/2025, 12:38:09 PM -->
+<!-- built at 11/21/2025, 1:27:25 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Farkle">
+    <a href="https://github.com/Jamyth/PUBG-record-tracker">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
