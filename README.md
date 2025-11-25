@@ -1,9 +1,9 @@
-<!-- built at 11/25/2025, 7:16:31 PM -->
+<!-- built at 11/25/2025, 8:21:36 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/JFolderize">
+    <a href="https://github.com/Jamyth/redux">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
