@@ -1,9 +1,9 @@
-<!-- built at 12/1/2025, 6:32:48 PM -->
+<!-- built at 12/1/2025, 7:20:15 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/random-dice-web">
+    <a href="https://github.com/Jamyth/leela-zero">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
