@@ -1,9 +1,9 @@
-<!-- built at 12/3/2025, 7:20:36 AM -->
+<!-- built at 12/3/2025, 8:28:19 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/PWA-demo">
+    <a href="https://github.com/Jamyth/sales-manager">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
