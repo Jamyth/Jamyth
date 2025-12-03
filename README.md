@@ -1,9 +1,9 @@
-<!-- built at 12/2/2025, 11:17:48 PM -->
+<!-- built at 12/3/2025, 1:37:15 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/shorten-url-demo">
+    <a href="https://github.com/Jamyth/Jamyth">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
