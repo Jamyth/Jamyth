@@ -1,9 +1,9 @@
-<!-- built at 12/7/2025, 1:24:46 PM -->
+<!-- built at 12/7/2025, 2:16:33 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/libs">
+    <a href="https://github.com/Jamyth/coherent-exchange-rates">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
