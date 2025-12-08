@@ -1,9 +1,9 @@
-<!-- built at 12/8/2025, 12:41:23 PM -->
+<!-- built at 12/8/2025, 1:33:55 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/coil-react">
+    <a href="https://github.com/Jamyth/Jamyth">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
