@@ -1,9 +1,9 @@
-<!-- built at 12/10/2025, 9:24:15 AM -->
+<!-- built at 12/10/2025, 10:23:19 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/sales-manager">
+    <a href="https://github.com/Jamyth/dotfiles">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
