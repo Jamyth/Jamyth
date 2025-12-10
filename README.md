@@ -1,9 +1,9 @@
-<!-- built at 12/10/2025, 10:23:19 AM -->
+<!-- built at 12/10/2025, 11:18:17 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/dotfiles">
+    <a href="https://github.com/Jamyth/chinese-chess">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
