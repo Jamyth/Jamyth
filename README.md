@@ -1,9 +1,9 @@
-<!-- built at 12/15/2025, 3:23:26 PM -->
+<!-- built at 12/15/2025, 4:30:15 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/react-shiba">
+    <a href="https://github.com/Jamyth/iamyth-go">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
