@@ -1,9 +1,9 @@
-<!-- built at 12/16/2025, 3:24:05 PM -->
+<!-- built at 12/16/2025, 4:28:44 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Jed-Mongoose">
+    <a href="https://github.com/Jamyth/eatwhatgood-mono">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
