@@ -1,9 +1,9 @@
-<!-- built at 12/23/2025, 9:25:01 AM -->
+<!-- built at 12/23/2025, 10:23:09 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/9upper-project">
+    <a href="https://github.com/Jamyth/Sudoku">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
