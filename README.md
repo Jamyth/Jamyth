@@ -1,9 +1,9 @@
-<!-- built at 12/23/2025, 7:23:07 AM -->
+<!-- built at 12/23/2025, 8:29:03 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/GO_AI">
+    <a href="https://github.com/Jamyth/landmines">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
