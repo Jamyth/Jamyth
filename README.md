@@ -1,9 +1,9 @@
-<!-- built at 12/26/2025, 4:34:09 AM -->
+<!-- built at 12/26/2025, 5:21:11 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/metamatter">
+    <a href="https://github.com/Jamyth/core-fe-project">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
