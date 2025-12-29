@@ -1,9 +1,9 @@
-<!-- built at 12/29/2025, 9:29:51 AM -->
+<!-- built at 12/29/2025, 10:22:47 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jed-type-game">
+    <a href="https://github.com/Jamyth/EatWhatGood">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
