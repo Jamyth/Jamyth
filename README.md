@@ -1,9 +1,9 @@
-<!-- built at 12/31/2025, 11:18:54 PM -->
+<!-- built at 1/1/2026, 1:51:45 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/EatWhatGood-backend">
+    <a href="https://github.com/Jamyth/JFolderize">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
