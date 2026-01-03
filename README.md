@@ -1,9 +1,9 @@
-<!-- built at 1/3/2026, 11:16:24 AM -->
+<!-- built at 1/3/2026, 12:38:58 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Coil-React-CLI">
+    <a href="https://github.com/Jamyth/core-codegen">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
