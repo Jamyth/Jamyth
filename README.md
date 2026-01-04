@@ -1,9 +1,9 @@
-<!-- built at 1/4/2026, 5:25:10 AM -->
+<!-- built at 1/4/2026, 6:31:25 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/hk-mtr-util">
+    <a href="https://github.com/Jamyth/jed-type-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
