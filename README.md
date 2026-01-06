@@ -1,9 +1,9 @@
-<!-- built at 1/6/2026, 6:34:13 AM -->
+<!-- built at 1/6/2026, 7:25:20 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/random-dice-web">
+    <a href="https://github.com/Jamyth/PUBG-record-tracker">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
