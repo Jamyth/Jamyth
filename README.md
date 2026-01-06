@@ -1,9 +1,9 @@
-<!-- built at 1/6/2026, 11:18:22 AM -->
+<!-- built at 1/6/2026, 12:43:15 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/JFolderize">
+    <a href="https://github.com/Jamyth/eatwhatgood-mono">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
