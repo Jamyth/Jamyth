@@ -1,9 +1,9 @@
-<!-- built at 1/7/2026, 5:25:18 PM -->
+<!-- built at 1/7/2026, 6:32:24 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jconfig">
+    <a href="https://github.com/Jamyth/iamyth-iconfont">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
