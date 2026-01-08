@@ -1,9 +1,9 @@
-<!-- built at 1/8/2026, 2:24:41 PM -->
+<!-- built at 1/8/2026, 3:25:30 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/metamatter">
+    <a href="https://github.com/Jamyth/jed-type-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
