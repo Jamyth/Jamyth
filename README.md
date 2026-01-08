@@ -1,9 +1,9 @@
-<!-- built at 1/8/2026, 7:19:06 PM -->
+<!-- built at 1/8/2026, 8:24:57 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/iamyth-go">
+    <a href="https://github.com/Jamyth/FlightRedeemSearch">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
