@@ -1,9 +1,9 @@
-<!-- built at 1/13/2026, 5:25:31 PM -->
+<!-- built at 1/13/2026, 6:30:59 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/GO_AI">
+    <a href="https://github.com/Jamyth/Jalendar">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
