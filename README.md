@@ -1,9 +1,9 @@
-<!-- built at 1/15/2026, 7:23:37 PM -->
+<!-- built at 1/15/2026, 8:24:27 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/metamatter">
+    <a href="https://github.com/Jamyth/iamyth-chakra-admin">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
