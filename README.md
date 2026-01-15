@@ -1,9 +1,9 @@
-<!-- built at 1/15/2026, 3:40:17 AM -->
+<!-- built at 1/15/2026, 4:39:57 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Jederize">
+    <a href="https://github.com/Jamyth/Coil-React-CLI">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
