@@ -1,9 +1,9 @@
-<!-- built at 1/15/2026, 4:34:50 PM -->
+<!-- built at 1/15/2026, 5:31:04 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/core-fe-project">
+    <a href="https://github.com/Jamyth/Jamyth">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
