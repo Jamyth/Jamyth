@@ -1,9 +1,9 @@
-<!-- built at 1/16/2026, 5:24:57 AM -->
+<!-- built at 1/16/2026, 6:33:59 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/coil-react">
+    <a href="https://github.com/Jamyth/Sudoku">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
