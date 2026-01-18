@@ -1,9 +1,9 @@
-<!-- built at 1/18/2026, 9:17:41 PM -->
+<!-- built at 1/18/2026, 10:19:05 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/EatWhatGood">
+    <a href="https://github.com/Jamyth/SwissTournament">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
