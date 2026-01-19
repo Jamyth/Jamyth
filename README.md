@@ -1,9 +1,9 @@
-<!-- built at 1/19/2026, 10:28:21 AM -->
+<!-- built at 1/19/2026, 11:20:34 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Jed-Mongoose">
+    <a href="https://github.com/Jamyth/leela-zero">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
