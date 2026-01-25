@@ -1,9 +1,9 @@
-<!-- built at 1/25/2026, 11:17:23 AM -->
+<!-- built at 1/25/2026, 12:41:22 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/foul-language-counter">
+    <a href="https://github.com/Jamyth/iamyth-go">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
