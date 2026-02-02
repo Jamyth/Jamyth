@@ -1,9 +1,9 @@
-<!-- built at 2/2/2026, 9:49:19 AM -->
+<!-- built at 2/2/2026, 10:43:02 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Farkle">
+    <a href="https://github.com/Jamyth/vite-runner">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
