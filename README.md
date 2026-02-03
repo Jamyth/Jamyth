@@ -1,9 +1,9 @@
-<!-- built at 2/3/2026, 2:06:58 PM -->
+<!-- built at 2/3/2026, 3:49:36 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jed-nvim">
+    <a href="https://github.com/Jamyth/appcenter-auto-builder">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
