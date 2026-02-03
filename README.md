@@ -1,9 +1,9 @@
-<!-- built at 2/3/2026, 11:33:20 AM -->
+<!-- built at 2/3/2026, 12:59:03 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/coherent-exchange-rates">
+    <a href="https://github.com/Jamyth/redux">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
