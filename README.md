@@ -1,9 +1,9 @@
-<!-- built at 2/6/2026, 3:39:07 PM -->
+<!-- built at 2/6/2026, 4:43:02 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/SwissTournament">
+    <a href="https://github.com/Jamyth/jed-nvim">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
