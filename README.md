@@ -1,9 +1,9 @@
-<!-- built at 2/7/2026, 5:41:07 AM -->
+<!-- built at 2/7/2026, 6:41:18 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/nestjs-realworld-example-app">
+    <a href="https://github.com/Jamyth/jed-type-game">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
