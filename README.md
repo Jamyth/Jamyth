@@ -1,9 +1,9 @@
-<!-- built at 2/7/2026, 6:41:18 AM -->
+<!-- built at 2/7/2026, 7:30:46 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jed-type-game">
+    <a href="https://github.com/Jamyth/chinese-chess">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
