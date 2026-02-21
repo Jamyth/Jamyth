@@ -1,9 +1,9 @@
-<!-- built at 2/21/2026, 5:25:05 PM -->
+<!-- built at 2/21/2026, 6:34:26 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Jed-Mongoose">
+    <a href="https://github.com/Jamyth/chinese-chess">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
