@@ -1,9 +1,9 @@
-<!-- built at 2/21/2026, 6:34:26 PM -->
+<!-- built at 2/21/2026, 7:22:56 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/chinese-chess">
+    <a href="https://github.com/Jamyth/Sudoku">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
