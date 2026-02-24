@@ -1,9 +1,9 @@
-<!-- built at 2/24/2026, 5:58:18 AM -->
+<!-- built at 2/24/2026, 7:10:07 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/expo-go-game">
+    <a href="https://github.com/Jamyth/SwissTournament">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
