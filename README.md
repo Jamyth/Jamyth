@@ -1,9 +1,9 @@
-<!-- built at 3/28/2026, 5:28:22 PM -->
+<!-- built at 3/28/2026, 6:39:53 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/react-shiba">
+    <a href="https://github.com/Jamyth/random-dice-web">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
