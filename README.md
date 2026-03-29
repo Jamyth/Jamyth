@@ -1,9 +1,9 @@
-<!-- built at 3/28/2026, 11:30:39 PM -->
+<!-- built at 3/29/2026, 2:27:05 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/jamyth-script-v2">
+    <a href="https://github.com/Jamyth/core-codegen">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
