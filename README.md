@@ -1,9 +1,9 @@
-<!-- built at 7/8/2026, 8:18:42 PM -->
+<!-- built at 7/8/2026, 10:04:03 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/Sudoku">
+    <a href="https://github.com/Jamyth/Jed-Type-Challenge">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
