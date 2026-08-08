@@ -1,9 +1,9 @@
-<!-- built at 8/8/2026, 6:35:33 PM -->
+<!-- built at 8/8/2026, 7:28:00 PM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/appcenter-auto-builder">
+    <a href="https://github.com/Jamyth/chinese-chess">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
