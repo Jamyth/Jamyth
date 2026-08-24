@@ -1,9 +1,9 @@
-<!-- built at 8/24/2026, 5:36:47 AM -->
+<!-- built at 8/24/2026, 6:55:26 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/EatWhatGood">
+    <a href="https://github.com/Jamyth/TauriScreenSaver">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
