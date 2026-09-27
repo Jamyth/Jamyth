@@ -1,9 +1,9 @@
-<!-- built at 9/26/2026, 9:51:47 PM -->
+<!-- built at 9/27/2026, 12:15:59 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/vintage-leather-foil-stamping-demo">
+    <a href="https://github.com/Jamyth/use-translation">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
