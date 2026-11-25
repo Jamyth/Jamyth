@@ -1,9 +1,9 @@
-<!-- built at 11/24/2026, 7:56:47 PM -->
+<!-- built at 11/25/2026, 3:25:07 AM -->
 <h1 align="center">
 🎉 Jamyth Present 🎉
 </h1>
 <p align="center">
-    <a href="https://github.com/Jamyth/react-native-neu-element">
+    <a href="https://github.com/Jamyth/core-codegen">
         <img width="1000" height="300" src="./readme.svg" />
     </a>
 </p>
